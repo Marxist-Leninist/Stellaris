@@ -13,3 +13,6 @@ print("Fallen Empires: ")
 println(round(rand()*5, digits=0)) #6 option off to 5
 print("Marauder Empire: ")
 println(round(rand()*3, digits=0)) #4 option off to 4
+
+print("Tech/Tradition Cost: ")
+println(round(rand()*5, digits=2))
